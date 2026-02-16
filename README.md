@@ -32,8 +32,7 @@ Airbnb listing data for Los Angeles from [Inside Airbnb](http://insideairbnb.com
 
 ```
 ├── analysis/
-│   ├── Market_Summary_Pre_Post_COVID.docx
-│   └── Future_of_Home_Sharing_in_LA.docx
+│   ├── analysis.md
 ├── presentation/
 │   └── (presentation slides)
 └── README.md
